@@ -1,0 +1,3 @@
+PASS: nonlinear residual; permutation equivariance; odd stage;
+PASS: diffusion inequalities on 100000 sampled pairs; different diffusion evaluations.
+Tests check implementation; analytic inequalities are proved in README.

@@ -1,0 +1,12 @@
+Model: b=-2x-14x^[3]+0.5m(mu), sigma=diag(sqrt(1+x_l^2))
+Initial: iid N(0,I_8); no empirical centering. Dimension prefixes 2,3,4,5,8.
+T=100
+h=0.015625
+R=64
+save_dt=0.25
+N=40,80,160,320,640,1280,2560,
+Method: fully coupled implicit-drift SSBE, separately evaluated multiplicative diffusion.
+Reference: noninteracting zero-mean limit equation discretized at the SAME h.
+No noise cancellation assumption; only Brownian increments are shared.
+RNG: mt19937_64, seed=20260930+1000003*N+7919*(rep+1)
+Runtime_seconds=418.56139193799999

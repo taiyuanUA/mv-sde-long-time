@@ -1,0 +1,10 @@
+{
+  "main_rows": 179648,
+  "independent_systems": 448,
+  "refinement_rows": 12832,
+  "refinement_systems": 32,
+  "saved_times_per_system": 401,
+  "terminal_time": 100,
+  "main_exit": 0,
+  "refinement_exit": 0
+}
