@@ -5,3 +5,6 @@ Numerical experiments for long-time strong approximation of McKean–Vlasov SDEs
 The numerical experiment package is available here:
 
 [Download the experiment package (v1.0.0)](https://github.com/taiyuanUA/mv-sde-long-time/releases/tag/v1.0.0)
+[Browse the repository](https://github.com/taiyuanUA/mv-sde-long-time)
+
+[Download the numerical experiment packages (v1.0.1)](https://github.com/taiyuanUA/mv-sde-long-time/releases/tag/v1.0.1)
